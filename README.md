@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/caciaheart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caciaheart" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/heart alphionanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heart alphionanda" height="30" width="40" /></a>
+<a href="https://www.x.com/@CaciaHeart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caciaheart" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/heart-alphionanda-72053b24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heart alphionanda" height="30" width="40" /></a>
 <a href="https://instagram.com/@heartalphionanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@heartalphionanda" height="30" width="40" /></a>
 <a href="https://discord.gg/1109024976020967446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1109024976020967446" height="30" width="40" /></a>
 </p>
